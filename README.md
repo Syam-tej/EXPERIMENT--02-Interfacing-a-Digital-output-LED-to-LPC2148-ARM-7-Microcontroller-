@@ -124,4 +124,5 @@ Step 9: Select the hex file from the Kiel program folder and import the program 
 ## Result :
 Interfacing a digital output with ARM microcontroller is executed 
 
+![Screenshot 2022-09-24 144450](https://user-images.githubusercontent.com/93427224/192090262-5c7c9874-e991-4e72-b8be-a4eabdfe6dbb.png)
 
